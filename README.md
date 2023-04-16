@@ -14,7 +14,7 @@ PyPass is a Python script that generates random passwords with customizable sett
 
 1. Clone the repository or download the `pypass.py` script.
 2. Make sure you have Python installed on your system.
-3. Open a terminal or command prompt and navigate to the directory where the `password_generator.py` script is located.
+3. Open a terminal or command prompt and navigate to the directory where the `pypass.py` script is located.
 4. Run the script using Python with the command `python pypass.py`.
 5. Follow the on-screen instructions to configure the password settings and generate passwords.
 6. Enjoy using PyPassGenX to generate secure passwords for your needs!
